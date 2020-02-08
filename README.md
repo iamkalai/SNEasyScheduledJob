@@ -13,7 +13,7 @@ ServiceNow platform is moving towards no-code or low-code direction but, there i
 
 *Install the updateset found in dist folder* - "Easy Scheduled Job-V1" updateset creates the application and all the needed components in the instance. All the components that are being created are new and do not change any out of the box settings.
 
-*Note:* The application is built in Orlando. So you might see preview errors while installing this in a older release instance. Just accept all remote updates and commit the updateset.
+**Note:** The application is built in Orlando. So you might see preview errors while installing this in a older release instance. Just accept all remote updates and commit the updateset.
 
 **Usage:**
 ----------
